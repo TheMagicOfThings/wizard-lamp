@@ -27,7 +27,7 @@ long debounce = 100;   // delay between readings
 
 //Set the pixel colour
 // strip.Color takes RGB values, from 0,0,0 up to 255,255,255
-int r = 128, g = 255, b = 255;
+int r = 180, g = 255, b = 255;
 
 void setup()
 {
