@@ -11,7 +11,7 @@ With a tap of your magic wand you turn your wizard light on and off.  You are ma
 ## Parts Included
 ![](https://github.com/TheMagicOfThings/wizard-lamp/blob/master/Images/20200409_135325.jpg)
 
-* 1x Hall Effect Sensor
+* 1x Magic Wand Sensor
 * 1x LED Strip
 * 1x Arduino Nano
 * 1x USB cable
