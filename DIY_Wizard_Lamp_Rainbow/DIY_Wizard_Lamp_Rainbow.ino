@@ -1,7 +1,7 @@
 /**************************************************************************
  * Magic Wand Activated Wizard Lamp
  * 
- * Written by The Magic Of Thngs
+ * Written by The Magic Of Things
  *************************************************************************/
 
 
